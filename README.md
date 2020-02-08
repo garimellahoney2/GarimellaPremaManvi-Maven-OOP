@@ -9,7 +9,7 @@ Child classes are: <br/>
 2) Chocolate <br/>
 3) Sweet <br/>
 <br />
-It performs the following actions:<br/>
+**IT PERFORMS THE FOLLOWING ACTIONS:**<br/>
 1)It sorts chocolate objects based on price using **Comparable interface** <br/>
 2)It displays candies based on maximum range
 3)It finally displays bill based on selected options
