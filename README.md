@@ -11,5 +11,5 @@ Child classes are: <br/>
 <br />
 IT PERFORMS THE FOLLOWING ACTIONS:<br/>
 1)It sorts chocolate objects based on price using **Comparable interface** <br/>
-2)It displays candies based on maximum range
+2)It displays candies based on maximum range<br />
 3)It finally displays bill based on selected options
